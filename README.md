@@ -9,4 +9,5 @@ Bu repoda, **20 günlük bir TypeScript öğrenme planı** yer almaktadır. Her 
    npm install -g typescript
    
 2. Her günün klasörüne girip dosyaları derleyin:
-tsc index.ts
+   ```bash 
+   tsc index.ts
